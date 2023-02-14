@@ -1,0 +1,26 @@
+{
+  "version": "5.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "blue",
+      "points": [
+        [
+          1271.3375796178343,
+          1143.9490445859872
+        ],
+        [
+          1622.9299363057323,
+          1658.5987261146497
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20221117_163355.jpg",
+  "imageData": null,
+  "imageHeight": 4000,
+  "imageWidth": 3000
+}
